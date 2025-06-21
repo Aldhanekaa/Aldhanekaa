@@ -1,4 +1,4 @@
-# Hello there I'm Aldhan 
+##  Hi there 👋
 
 {{range recentContributions 10}}
 Name: {{.Repo.Name}}
