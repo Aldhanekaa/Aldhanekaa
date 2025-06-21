@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: actions/checkout@master
 
-      - uses: Aldhanekaa/Aldhanekaa@master
+      - uses: Aldhanekaa/Aldhanekaa@main
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
         with:
