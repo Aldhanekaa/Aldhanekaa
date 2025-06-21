@@ -15,7 +15,7 @@ URL: {{.URL}})
 Stars: {{.Stargazers}}
 {{end}}
 
-{{range recentPushedRepos "charmbracelet" 10}}
+{{range recentPushedRepos "aldhanekaa" 10}}
 Name: {{.Name}}
 URL: {{.URL}}
 Description: {{.Description}}
